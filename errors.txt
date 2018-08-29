@@ -1,0 +1,8 @@
+============================= test session starts =============================
+platform win32 -- Python 3.6.4, pytest-3.3.2, py-1.5.2, pluggy-0.6.0
+rootdir: C:\Users\Mohamed Hammad\Desktop\SPICED\my_project, inifile: setup.cfg
+collected 1 item
+
+tests\test_skeleton.py .                                                 [100%]
+
+========================== 1 passed in 15.96 seconds ==========================
